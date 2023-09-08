@@ -1,9 +1,9 @@
 # GDP-and-life-expectancy
 
-Description
+### Description
 This is a portfolio project based on the learning resources provided by Codecademy, that explores the relationship between life expectancy and GDP of six countries over two decades (2000-2015). The project aims to understand how economic growth and well-being are related across nations.
 
-Data
+### Data
 The data used for this project comes from the World Health Organization and the World Bank. The data is in CSV format and contains the following variables:
 
 - Country: The name of the country.
@@ -11,7 +11,7 @@ The data used for this project comes from the World Health Organization and the 
 - Life expectancy at birth (years): The average number of years that a newborn is expected to live if current mortality rates continue to apply.
 - GDP: The total value of goods and services produced by a country in a given year, in US dollars.
 
-Tools
+### Tools
 The following tools were used for the analysis:
 
 - Python: For data manipulation, analysis and visualization.
@@ -22,5 +22,5 @@ The following tools were used for the analysis:
 - Matplotlib: Python library for two-dimensional graphics.
 - Statsmodels: Python library for statistical models.
 
-Results
+### Results
 The results can be seen in life_expectancy_gdp.ipynb, which has the code, the comments and the graphs of the analysis.
